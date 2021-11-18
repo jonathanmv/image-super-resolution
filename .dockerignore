@@ -4,3 +4,4 @@
 !weights/sample_weights/*
 !config.yml
 !setup.py
+!.cog/
